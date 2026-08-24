@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: forte-mock-sap-b1
+    runtime: node
+    plan: starter
+    region: ohio
+    buildCommand: npm ci
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: DB_PATH
+        value: /var/data/db.json
+    disk:
+      name: sap-b1-data
+      mountPath: /var/data
+      sizeGB: 1

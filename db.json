@@ -1,0 +1,2720 @@
+{
+  "businessPartners": [
+    {
+      "CardCode": "C10001",
+      "CardName": "Refaccionaria Sureste SA de CV",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 200000,
+      "Balance": 44939,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5562151758",
+      "City": "Nuevo Leon",
+      "State": "Nuevo Leon",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10002",
+      "CardName": "Flotillas Fronteriza",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 185000,
+      "Balance": 102764,
+      "Frozen": "Y",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5529267656",
+      "City": "CDMX",
+      "State": "CDMX",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10003",
+      "CardName": "Comercializadora de Neumaticos San Miguel",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 99055,
+      "Frozen": "N",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5530032505",
+      "City": "Puebla",
+      "State": "Puebla",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10004",
+      "CardName": "Grupo Llantero Guadalajara",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 243144,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5539264263",
+      "City": "Queretaro",
+      "State": "Queretaro",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10005",
+      "CardName": "Autopartes y Rodamiento Queretaro",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 600000,
+      "Balance": 22052,
+      "Frozen": "Y",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5597160043",
+      "City": "Yucatan",
+      "State": "Yucatan",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10006",
+      "CardName": "Llantas y Servicios Toluca",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 50000,
+      "Balance": 11391,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5542991179",
+      "City": "Estado de Mexico",
+      "State": "Estado de Mexico",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10007",
+      "CardName": "Transportes del Norte",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 100000,
+      "Balance": 8833,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5534965162",
+      "City": "Baja California",
+      "State": "Baja California",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10008",
+      "CardName": "Importadora de Llantas Centro",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 150000,
+      "Balance": 54003,
+      "Frozen": "N",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5587656381",
+      "City": "Guanajuato",
+      "State": "Guanajuato",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10009",
+      "CardName": "Neumaticos del Norte La Union",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 173782,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5587736054",
+      "City": "Sonora",
+      "State": "Sonora",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10010",
+      "CardName": "Refacciones Industriales Los Pinos",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 144367,
+      "Frozen": "N",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5584957799",
+      "City": "Jalisco",
+      "State": "Jalisco",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10011",
+      "CardName": "Distribuidora Agricola Monterrey",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 600000,
+      "Balance": 271905,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5519495895",
+      "City": "Nuevo Leon",
+      "State": "Nuevo Leon",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10012",
+      "CardName": "Maquinaria y Llantas Leon",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 50000,
+      "Balance": 30939,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5558991462",
+      "City": "CDMX",
+      "State": "CDMX",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10013",
+      "CardName": "Distribuidora de Llantas Tijuana",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 100000,
+      "Balance": 6955,
+      "Frozen": "N",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5529176793",
+      "City": "Puebla",
+      "State": "Puebla",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10014",
+      "CardName": "Refaccionaria del Pacifico",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 150000,
+      "Balance": 51035,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5516938880",
+      "City": "Queretaro",
+      "State": "Queretaro",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10015",
+      "CardName": "Flotillas Industrial",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 44549,
+      "Frozen": "N",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5528011239",
+      "City": "Yucatan",
+      "State": "Yucatan",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10016",
+      "CardName": "Comercializadora de Neumaticos El Camino",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 254011,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5593057355",
+      "City": "Estado de Mexico",
+      "State": "Estado de Mexico",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10017",
+      "CardName": "Grupo Llantero del Valle",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 600000,
+      "Balance": 299781,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5533414200",
+      "City": "Baja California",
+      "State": "Baja California",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10018",
+      "CardName": "Autopartes y Rodamiento Puebla",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 50000,
+      "Balance": 10016,
+      "Frozen": "N",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5580280639",
+      "City": "Guanajuato",
+      "State": "Guanajuato",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10019",
+      "CardName": "Llantas y Servicios Merida",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 100000,
+      "Balance": 41836,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5520064194",
+      "City": "Sonora",
+      "State": "Sonora",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10020",
+      "CardName": "Transportes del Bajio",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 150000,
+      "Balance": 78586,
+      "Frozen": "N",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5556950781",
+      "City": "Jalisco",
+      "State": "Jalisco",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10021",
+      "CardName": "Importadora de Llantas Sureste",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 148565,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5569660591",
+      "City": "Nuevo Leon",
+      "State": "Nuevo Leon",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10022",
+      "CardName": "Neumaticos del Norte Fronteriza",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 22135,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5521408240",
+      "City": "CDMX",
+      "State": "CDMX",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10023",
+      "CardName": "Refacciones Industriales San Miguel",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 600000,
+      "Balance": 46831,
+      "Frozen": "N",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5565002483",
+      "City": "Puebla",
+      "State": "Puebla",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10024",
+      "CardName": "Distribuidora Agricola Guadalajara",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 50000,
+      "Balance": 12437,
+      "Frozen": "Y",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5544721433",
+      "City": "Queretaro",
+      "State": "Queretaro",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10025",
+      "CardName": "Maquinaria y Llantas Queretaro",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 100000,
+      "Balance": 25091,
+      "Frozen": "Y",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5593456617",
+      "City": "Yucatan",
+      "State": "Yucatan",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10026",
+      "CardName": "Distribuidora de Llantas Toluca",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 150000,
+      "Balance": 73548,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5598090206",
+      "City": "Estado de Mexico",
+      "State": "Estado de Mexico",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10027",
+      "CardName": "Refaccionaria del Norte",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 91627,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5580461514",
+      "City": "Baja California",
+      "State": "Baja California",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10028",
+      "CardName": "Flotillas Centro",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 275131,
+      "Frozen": "Y",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5570488772",
+      "City": "Guanajuato",
+      "State": "Guanajuato",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10029",
+      "CardName": "Comercializadora de Neumaticos La Union",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 600000,
+      "Balance": 114210,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5560313802",
+      "City": "Sonora",
+      "State": "Sonora",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10030",
+      "CardName": "Grupo Llantero Los Pinos",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 50000,
+      "Balance": 18259,
+      "Frozen": "N",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5583725321",
+      "City": "Jalisco",
+      "State": "Jalisco",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10031",
+      "CardName": "Autopartes y Rodamiento Monterrey",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 100000,
+      "Balance": 924,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5590298832",
+      "City": "Nuevo Leon",
+      "State": "Nuevo Leon",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10032",
+      "CardName": "Llantas y Servicios Leon",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 150000,
+      "Balance": 74913,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5552811323",
+      "City": "CDMX",
+      "State": "CDMX",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10033",
+      "CardName": "Transportes Tijuana",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 131051,
+      "Frozen": "Y",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5520689135",
+      "City": "Puebla",
+      "State": "Puebla",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10034",
+      "CardName": "Importadora de Llantas del Pacifico",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 189120,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5563830374",
+      "City": "Queretaro",
+      "State": "Queretaro",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10035",
+      "CardName": "Neumaticos del Norte Industrial",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 600000,
+      "Balance": 303786,
+      "Frozen": "N",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5598863269",
+      "City": "Yucatan",
+      "State": "Yucatan",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10036",
+      "CardName": "Refacciones Industriales El Camino",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 50000,
+      "Balance": 6470,
+      "Frozen": "N",
+      "SalesPersonCode": 2,
+      "SalesPersonName": "Ana Lucia Torres",
+      "Phone1": "5537029406",
+      "City": "Estado de Mexico",
+      "State": "Estado de Mexico",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10037",
+      "CardName": "Distribuidora Agricola del Valle",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 100000,
+      "Balance": 29298,
+      "Frozen": "N",
+      "SalesPersonCode": 3,
+      "SalesPersonName": "Jorge Villareal",
+      "Phone1": "5510512074",
+      "City": "Baja California",
+      "State": "Baja California",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10038",
+      "CardName": "Maquinaria y Llantas Puebla",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 150000,
+      "Balance": 74983,
+      "Frozen": "N",
+      "SalesPersonCode": 4,
+      "SalesPersonName": "Paulina Reyes",
+      "Phone1": "5543435258",
+      "City": "Guanajuato",
+      "State": "Guanajuato",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10039",
+      "CardName": "Distribuidora de Llantas Merida",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 250000,
+      "Balance": 81238,
+      "Frozen": "N",
+      "SalesPersonCode": 5,
+      "SalesPersonName": "Hector Salinas",
+      "Phone1": "5519385542",
+      "City": "Sonora",
+      "State": "Sonora",
+      "Country": "MX"
+    },
+    {
+      "CardCode": "C10040",
+      "CardName": "Refaccionaria del Bajio",
+      "CardType": "cCustomer",
+      "GroupCode": 100,
+      "Currency": "MXN",
+      "CreditLimit": 400000,
+      "Balance": 85416,
+      "Frozen": "N",
+      "SalesPersonCode": 1,
+      "SalesPersonName": "Ricardo Mendoza",
+      "Phone1": "5598880492",
+      "City": "Jalisco",
+      "State": "Jalisco",
+      "Country": "MX"
+    }
+  ],
+  "items": [
+    {
+      "ItemCode": "OVA-PCR-001",
+      "ItemName": "Ovation EcoVision 195/65R15",
+      "ItemsGroupCode": 100,
+      "ItmsGrpNam": "PCR",
+      "U_Marca": "Ovation",
+      "U_Medida": "195/65R15",
+      "Manufacturer": "Ovation",
+      "OnHand": 226,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1000,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1180,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "PRI-PCR-002",
+      "ItemName": "Prinx RoadMaster VP 205/55R16",
+      "ItemsGroupCode": 100,
+      "ItmsGrpNam": "PCR",
+      "U_Marca": "Prinx",
+      "U_Medida": "205/55R16",
+      "Manufacturer": "Prinx",
+      "OnHand": 373,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 860,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1015,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "FOR-PCR-003",
+      "ItemName": "Fortire TouringPro 215/60R16",
+      "ItemsGroupCode": 100,
+      "ItmsGrpNam": "PCR",
+      "U_Marca": "Fortire",
+      "U_Medida": "215/60R16",
+      "Manufacturer": "Fortire",
+      "OnHand": 433,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1230,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1451,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "BLA-PCR-004",
+      "ItemName": "BlackArrow SportGrip 225/45R17",
+      "ItemsGroupCode": 100,
+      "ItmsGrpNam": "PCR",
+      "U_Marca": "BlackArrow",
+      "U_Medida": "225/45R17",
+      "Manufacturer": "BlackArrow",
+      "OnHand": 409,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 870,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1027,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "OVA-PCR-005",
+      "ItemName": "Ovation SUV Terrain X 235/55R18",
+      "ItemsGroupCode": 100,
+      "ItmsGrpNam": "PCR",
+      "U_Marca": "Ovation",
+      "U_Medida": "235/55R18",
+      "Manufacturer": "Ovation",
+      "OnHand": 346,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1250,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1475,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "PRI-PCR-006",
+      "ItemName": "Prinx CityRunner 175/70R14",
+      "ItemsGroupCode": 100,
+      "ItmsGrpNam": "PCR",
+      "U_Marca": "Prinx",
+      "U_Medida": "175/70R14",
+      "Manufacturer": "Prinx",
+      "OnHand": 321,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1480,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1746,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "FOR-TBR-007",
+      "ItemName": "Fortire RoadLux TR688 295/80R22.5",
+      "ItemsGroupCode": 110,
+      "ItmsGrpNam": "TBR",
+      "U_Marca": "Fortire",
+      "U_Medida": "295/80R22.5",
+      "Manufacturer": "Fortire",
+      "OnHand": 259,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 8650,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 10207,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "BLA-TBR-008",
+      "ItemName": "BlackArrow HaulMax HD 11R22.5",
+      "ItemsGroupCode": 110,
+      "ItmsGrpNam": "TBR",
+      "U_Marca": "BlackArrow",
+      "U_Medida": "11R22.5",
+      "Manufacturer": "BlackArrow",
+      "OnHand": 146,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 7330,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 8649,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "OVA-TBR-009",
+      "ItemName": "Ovation CargoMile 275/80R22.5",
+      "ItemsGroupCode": 110,
+      "ItmsGrpNam": "TBR",
+      "U_Marca": "Ovation",
+      "U_Medida": "275/80R22.5",
+      "Manufacturer": "Ovation",
+      "OnHand": 111,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 4870,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 5747,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "PRI-TBR-010",
+      "ItemName": "Prinx TransAxle Pro 315/80R22.5",
+      "ItemsGroupCode": 110,
+      "ItmsGrpNam": "TBR",
+      "U_Marca": "Prinx",
+      "U_Medida": "315/80R22.5",
+      "Manufacturer": "Prinx",
+      "OnHand": 384,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 8710,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 10278,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "FOR-TBR-011",
+      "ItemName": "Fortire UrbanBus CityLine 10R22.5",
+      "ItemsGroupCode": 110,
+      "ItmsGrpNam": "TBR",
+      "U_Marca": "Fortire",
+      "U_Medida": "10R22.5",
+      "Manufacturer": "Fortire",
+      "OnHand": 364,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 8890,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 10490,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "BLA-AGRICOLA-012",
+      "ItemName": "BlackArrow AgriPower R1 18.4-30",
+      "ItemsGroupCode": 120,
+      "ItmsGrpNam": "AGRICOLA",
+      "U_Marca": "BlackArrow",
+      "U_Medida": "18.4-30",
+      "Manufacturer": "BlackArrow",
+      "OnHand": 126,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 7490,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 8838,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "OVA-AGRICOLA-013",
+      "ItemName": "Ovation FieldMaster R1 14.9-24",
+      "ItemsGroupCode": 120,
+      "ItmsGrpNam": "AGRICOLA",
+      "U_Marca": "Ovation",
+      "U_Medida": "14.9-24",
+      "Manufacturer": "Ovation",
+      "OnHand": 470,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 9220,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 10880,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "PRI-AGRICOLA-014",
+      "ItemName": "Prinx HarvestGrip R1W 23.1-30",
+      "ItemsGroupCode": 120,
+      "ItmsGrpNam": "AGRICOLA",
+      "U_Marca": "Prinx",
+      "U_Medida": "23.1-30",
+      "Manufacturer": "Prinx",
+      "OnHand": 192,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 8130,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 9593,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "FOR-AGRICOLA-015",
+      "ItemName": "Fortire TracFarm R1 13.6-28",
+      "ItemsGroupCode": 120,
+      "ItmsGrpNam": "AGRICOLA",
+      "U_Marca": "Fortire",
+      "U_Medida": "13.6-28",
+      "Manufacturer": "Fortire",
+      "OnHand": 204,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 15060,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 17771,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "BLA-ATV-016",
+      "ItemName": "BlackArrow DuneRider 25x8-12",
+      "ItemsGroupCode": 130,
+      "ItmsGrpNam": "ATV",
+      "U_Marca": "BlackArrow",
+      "U_Medida": "25x8-12",
+      "Manufacturer": "BlackArrow",
+      "OnHand": 292,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 2830,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 3339,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "OVA-ATV-017",
+      "ItemName": "Ovation TrailBlazer XT 26x9-12",
+      "ItemsGroupCode": 130,
+      "ItmsGrpNam": "ATV",
+      "U_Marca": "Ovation",
+      "U_Medida": "26x9-12",
+      "Manufacturer": "Ovation",
+      "OnHand": 263,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 3330,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 3929,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "PRI-ATV-018",
+      "ItemName": "Prinx MudCrawler 25x10-12",
+      "ItemsGroupCode": 130,
+      "ItmsGrpNam": "ATV",
+      "U_Marca": "Prinx",
+      "U_Medida": "25x10-12",
+      "Manufacturer": "Prinx",
+      "OnHand": 476,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 2790,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 3292,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "FOR-ATV-019",
+      "ItemName": "Fortire SportQuad 22x7-10",
+      "ItemsGroupCode": 130,
+      "ItmsGrpNam": "ATV",
+      "U_Marca": "Fortire",
+      "U_Medida": "22x7-10",
+      "Manufacturer": "Fortire",
+      "OnHand": 186,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 2530,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 2985,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "BLA-INDUSTRIAL-020",
+      "ItemName": "BlackArrow ForkLift Solid 6.50-10",
+      "ItemsGroupCode": 140,
+      "ItmsGrpNam": "INDUSTRIAL",
+      "U_Marca": "BlackArrow",
+      "U_Medida": "6.50-10",
+      "Manufacturer": "BlackArrow",
+      "OnHand": 347,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1710,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 2018,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "OVA-INDUSTRIAL-021",
+      "ItemName": "Ovation WareMax Industrial 28x9-15",
+      "ItemsGroupCode": 140,
+      "ItmsGrpNam": "INDUSTRIAL",
+      "U_Marca": "Ovation",
+      "U_Medida": "28x9-15",
+      "Manufacturer": "Ovation",
+      "OnHand": 395,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 2550,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 3009,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "PRI-INDUSTRIAL-022",
+      "ItemName": "Prinx HeavyDuty Pneumatic 7.00-12",
+      "ItemsGroupCode": 140,
+      "ItmsGrpNam": "INDUSTRIAL",
+      "U_Marca": "Prinx",
+      "U_Medida": "7.00-12",
+      "Manufacturer": "Prinx",
+      "OnHand": 475,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1570,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1853,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "FOR-GOLF-023",
+      "ItemName": "Fortire GreenGlide 18x8.50-8",
+      "ItemsGroupCode": 150,
+      "ItmsGrpNam": "GOLF",
+      "U_Marca": "Fortire",
+      "U_Medida": "18x8.50-8",
+      "Manufacturer": "Fortire",
+      "OnHand": 117,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1150,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1357,
+          "Currency": "MXN"
+        }
+      ]
+    },
+    {
+      "ItemCode": "BLA-GOLF-024",
+      "ItemName": "BlackArrow CartPro Smooth 205/50-10",
+      "ItemsGroupCode": 150,
+      "ItmsGrpNam": "GOLF",
+      "U_Marca": "BlackArrow",
+      "U_Medida": "205/50-10",
+      "Manufacturer": "BlackArrow",
+      "OnHand": 272,
+      "InventoryUOM": "PZA",
+      "Valid": "tYES",
+      "ItemPrices": [
+        {
+          "PriceList": 1,
+          "PriceListName": "Lista Mayoreo",
+          "Price": 1330,
+          "Currency": "MXN"
+        },
+        {
+          "PriceList": 2,
+          "PriceListName": "Lista Distribuidor",
+          "Price": 1569,
+          "Currency": "MXN"
+        }
+      ]
+    }
+  ],
+  "salesOrders": [
+    {
+      "DocEntry": 1,
+      "DocNum": 90001,
+      "CardCode": "C10026",
+      "CardName": "Distribuidora de Llantas Toluca",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 945300,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "FOR-TBR-007",
+          "ItemDescription": "Fortire RoadLux TR688 295/80R22.5",
+          "Quantity": 40,
+          "Price": 8650,
+          "LineTotal": 346000
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "OVA-AGRICOLA-013",
+          "ItemDescription": "Ovation FieldMaster R1 14.9-24",
+          "Quantity": 65,
+          "Price": 9220,
+          "LineTotal": 599300
+        }
+      ],
+      "SalesPersonCode": 2,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:04.374Z"
+    },
+    {
+      "DocEntry": 2,
+      "DocNum": 90002,
+      "CardCode": "C10013",
+      "CardName": "Distribuidora de Llantas Tijuana",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 95460,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-PCR-002",
+          "ItemDescription": "Prinx RoadMaster VP 205/55R16",
+          "Quantity": 111,
+          "Price": 860,
+          "LineTotal": 95460
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "VALID-002",
+      "U_Paqueteria": "Estafeta",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:04.603Z"
+    },
+    {
+      "DocEntry": 3,
+      "DocNum": 90003,
+      "CardCode": "C10027",
+      "CardName": "Refaccionaria del Norte",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 128250,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-INDUSTRIAL-020",
+          "ItemDescription": "BlackArrow ForkLift Solid 6.50-10",
+          "Quantity": 75,
+          "Price": 1710,
+          "LineTotal": 128250
+        }
+      ],
+      "SalesPersonCode": 3,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:04.671Z"
+    },
+    {
+      "DocEntry": 4,
+      "DocNum": 90004,
+      "CardCode": "C10019",
+      "CardName": "Llantas y Servicios Merida",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 78620,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "FOR-GOLF-023",
+          "ItemDescription": "Fortire GreenGlide 18x8.50-8",
+          "Quantity": 22,
+          "Price": 1150,
+          "LineTotal": 25300
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-PCR-002",
+          "ItemDescription": "Prinx RoadMaster VP 205/55R16",
+          "Quantity": 62,
+          "Price": 860,
+          "LineTotal": 53320
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:04.778Z"
+    },
+    {
+      "DocEntry": 5,
+      "DocNum": 90005,
+      "CardCode": "C10006",
+      "CardName": "Llantas y Servicios Toluca",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 235630,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-PCR-001",
+          "ItemDescription": "Ovation EcoVision 195/65R15",
+          "Quantity": 94,
+          "Price": 1000,
+          "LineTotal": 94000
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "OVA-ATV-017",
+          "ItemDescription": "Ovation TrailBlazer XT 26x9-12",
+          "Quantity": 10,
+          "Price": 3330,
+          "LineTotal": 33300
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "PRI-INDUSTRIAL-022",
+          "ItemDescription": "Prinx HeavyDuty Pneumatic 7.00-12",
+          "Quantity": 69,
+          "Price": 1570,
+          "LineTotal": 108330
+        }
+      ],
+      "SalesPersonCode": 2,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:04.971Z"
+    },
+    {
+      "DocEntry": 6,
+      "DocNum": 90006,
+      "CardCode": "C10004",
+      "CardName": "Grupo Llantero Guadalajara",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 202550,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-TBR-008",
+          "ItemDescription": "BlackArrow HaulMax HD 11R22.5",
+          "Quantity": 5,
+          "Price": 7330,
+          "LineTotal": 36650
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "BLA-AGRICOLA-012",
+          "ItemDescription": "BlackArrow AgriPower R1 18.4-30",
+          "Quantity": 18,
+          "Price": 7490,
+          "LineTotal": 134820
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "PRI-PCR-006",
+          "ItemDescription": "Prinx CityRunner 175/70R14",
+          "Quantity": 21,
+          "Price": 1480,
+          "LineTotal": 31080
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.082Z"
+    },
+    {
+      "DocEntry": 7,
+      "DocNum": 90007,
+      "CardCode": "C10039",
+      "CardName": "Distribuidora de Llantas Merida",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 392770,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-ATV-017",
+          "ItemDescription": "Ovation TrailBlazer XT 26x9-12",
+          "Quantity": 78,
+          "Price": 3330,
+          "LineTotal": 259740
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-INDUSTRIAL-022",
+          "ItemDescription": "Prinx HeavyDuty Pneumatic 7.00-12",
+          "Quantity": 19,
+          "Price": 1570,
+          "LineTotal": 29830
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "PRI-PCR-002",
+          "ItemDescription": "Prinx RoadMaster VP 205/55R16",
+          "Quantity": 120,
+          "Price": 860,
+          "LineTotal": 103200
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.197Z"
+    },
+    {
+      "DocEntry": 8,
+      "DocNum": 90008,
+      "CardCode": "C10017",
+      "CardName": "Grupo Llantero del Valle",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 194850,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-INDUSTRIAL-022",
+          "ItemDescription": "Prinx HeavyDuty Pneumatic 7.00-12",
+          "Quantity": 117,
+          "Price": 1570,
+          "LineTotal": 183690
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-ATV-018",
+          "ItemDescription": "Prinx MudCrawler 25x10-12",
+          "Quantity": 4,
+          "Price": 2790,
+          "LineTotal": 11160
+        }
+      ],
+      "SalesPersonCode": 3,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.287Z"
+    },
+    {
+      "DocEntry": 9,
+      "DocNum": 90009,
+      "CardCode": "C10017",
+      "CardName": "Grupo Llantero del Valle",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 684790,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-PCR-001",
+          "ItemDescription": "Ovation EcoVision 195/65R15",
+          "Quantity": 115,
+          "Price": 1000,
+          "LineTotal": 115000
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "OVA-TBR-009",
+          "ItemDescription": "Ovation CargoMile 275/80R22.5",
+          "Quantity": 117,
+          "Price": 4870,
+          "LineTotal": 569790
+        }
+      ],
+      "SalesPersonCode": 3,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.399Z"
+    },
+    {
+      "DocEntry": 10,
+      "DocNum": 90010,
+      "CardCode": "C10006",
+      "CardName": "Llantas y Servicios Toluca",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 1034970,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-INDUSTRIAL-022",
+          "ItemDescription": "Prinx HeavyDuty Pneumatic 7.00-12",
+          "Quantity": 105,
+          "Price": 1570,
+          "LineTotal": 164850
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "BLA-TBR-008",
+          "ItemDescription": "BlackArrow HaulMax HD 11R22.5",
+          "Quantity": 81,
+          "Price": 7330,
+          "LineTotal": 593730
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "OVA-ATV-017",
+          "ItemDescription": "Ovation TrailBlazer XT 26x9-12",
+          "Quantity": 83,
+          "Price": 3330,
+          "LineTotal": 276390
+        }
+      ],
+      "SalesPersonCode": 2,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.573Z"
+    },
+    {
+      "DocEntry": 11,
+      "DocNum": 90011,
+      "CardCode": "C10023",
+      "CardName": "Refacciones Industriales San Miguel",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 11000,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-PCR-001",
+          "ItemDescription": "Ovation EcoVision 195/65R15",
+          "Quantity": 11,
+          "Price": 1000,
+          "LineTotal": 11000
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.582Z"
+    },
+    {
+      "DocEntry": 12,
+      "DocNum": 90012,
+      "CardCode": "C10013",
+      "CardName": "Distribuidora de Llantas Tijuana",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 232190,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-AGRICOLA-012",
+          "ItemDescription": "BlackArrow AgriPower R1 18.4-30",
+          "Quantity": 31,
+          "Price": 7490,
+          "LineTotal": 232190
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.773Z"
+    },
+    {
+      "DocEntry": 13,
+      "DocNum": 90013,
+      "CardCode": "C10035",
+      "CardName": "Neumaticos del Norte Industrial",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 293200,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-TBR-008",
+          "ItemDescription": "BlackArrow HaulMax HD 11R22.5",
+          "Quantity": 40,
+          "Price": 7330,
+          "LineTotal": 293200
+        }
+      ],
+      "SalesPersonCode": 1,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.879Z"
+    },
+    {
+      "DocEntry": 14,
+      "DocNum": 90014,
+      "CardCode": "C10015",
+      "CardName": "Flotillas Industrial",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 1001650,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-TBR-010",
+          "ItemDescription": "Prinx TransAxle Pro 315/80R22.5",
+          "Quantity": 115,
+          "Price": 8710,
+          "LineTotal": 1001650
+        }
+      ],
+      "SalesPersonCode": 1,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:05.980Z"
+    },
+    {
+      "DocEntry": 15,
+      "DocNum": 90015,
+      "CardCode": "C10013",
+      "CardName": "Distribuidora de Llantas Tijuana",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 555660,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-TBR-009",
+          "ItemDescription": "Ovation CargoMile 275/80R22.5",
+          "Quantity": 21,
+          "Price": 4870,
+          "LineTotal": 102270
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "FOR-TBR-011",
+          "ItemDescription": "Fortire UrbanBus CityLine 10R22.5",
+          "Quantity": 51,
+          "Price": 8890,
+          "LineTotal": 453390
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:06.080Z"
+    },
+    {
+      "DocEntry": 16,
+      "DocNum": 90016,
+      "CardCode": "C10016",
+      "CardName": "Comercializadora de Neumaticos El Camino",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 209750,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-PCR-002",
+          "ItemDescription": "Prinx RoadMaster VP 205/55R16",
+          "Quantity": 30,
+          "Price": 860,
+          "LineTotal": 25800
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "BLA-ATV-016",
+          "ItemDescription": "BlackArrow DuneRider 25x8-12",
+          "Quantity": 65,
+          "Price": 2830,
+          "LineTotal": 183950
+        }
+      ],
+      "SalesPersonCode": 2,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:06.205Z"
+    },
+    {
+      "DocEntry": 17,
+      "DocNum": 90017,
+      "CardCode": "C10006",
+      "CardName": "Llantas y Servicios Toluca",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 7830,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-PCR-004",
+          "ItemDescription": "BlackArrow SportGrip 225/45R17",
+          "Quantity": 9,
+          "Price": 870,
+          "LineTotal": 7830
+        }
+      ],
+      "SalesPersonCode": 2,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:06.386Z"
+    },
+    {
+      "DocEntry": 18,
+      "DocNum": 90018,
+      "CardCode": "C10021",
+      "CardName": "Importadora de Llantas Sureste",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 269580,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-GOLF-024",
+          "ItemDescription": "BlackArrow CartPro Smooth 205/50-10",
+          "Quantity": 41,
+          "Price": 1330,
+          "LineTotal": 54530
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "FOR-ATV-019",
+          "ItemDescription": "Fortire SportQuad 22x7-10",
+          "Quantity": 85,
+          "Price": 2530,
+          "LineTotal": 215050
+        }
+      ],
+      "SalesPersonCode": 2,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:06.478Z"
+    },
+    {
+      "DocEntry": 19,
+      "DocNum": 90019,
+      "CardCode": "C10018",
+      "CardName": "Autopartes y Rodamiento Puebla",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 642270,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-AGRICOLA-014",
+          "ItemDescription": "Prinx HarvestGrip R1W 23.1-30",
+          "Quantity": 79,
+          "Price": 8130,
+          "LineTotal": 642270
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:06.574Z"
+    },
+    {
+      "DocEntry": 20,
+      "DocNum": 90020,
+      "CardCode": "C10008",
+      "CardName": "Importadora de Llantas Centro",
+      "DocDate": "2026-08-06",
+      "DocDueDate": "2026-08-11",
+      "DocTotal": 1456830,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "FOR-PCR-003",
+          "ItemDescription": "Fortire TouringPro 215/60R16",
+          "Quantity": 52,
+          "Price": 1230,
+          "LineTotal": 63960
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-AGRICOLA-014",
+          "ItemDescription": "Prinx HarvestGrip R1W 23.1-30",
+          "Quantity": 75,
+          "Price": 8130,
+          "LineTotal": 609750
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "FOR-AGRICOLA-015",
+          "ItemDescription": "Fortire TracFarm R1 13.6-28",
+          "Quantity": 52,
+          "Price": 15060,
+          "LineTotal": 783120
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-06T23:39:06.678Z"
+    },
+    {
+      "DocEntry": 22,
+      "DocNum": 90022,
+      "CardCode": "C10012",
+      "CardName": "Maquinaria y Llantas Leon",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 416290,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "FOR-TBR-011",
+          "ItemDescription": "Fortire UrbanBus CityLine 10R22.5",
+          "Quantity": 41,
+          "Price": 8890,
+          "LineTotal": 364490
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-PCR-006",
+          "ItemDescription": "Prinx CityRunner 175/70R14",
+          "Quantity": 35,
+          "Price": 1480,
+          "LineTotal": 51800
+        }
+      ],
+      "SalesPersonCode": 3,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "GUIA-88123",
+      "U_Paqueteria": "Estafeta",
+      "U_UrlRastreo": "https://rastreo.estafeta.com/GUIA-88123",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T03:44:22.546Z"
+    },
+    {
+      "DocEntry": 23,
+      "DocNum": 90023,
+      "CardCode": "C10029",
+      "CardName": "Comercializadora de Neumaticos La Union",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 400800,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-TBR-009",
+          "ItemDescription": "Ovation CargoMile 275/80R22.5",
+          "Quantity": 57,
+          "Price": 4870,
+          "LineTotal": 277590
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-PCR-006",
+          "ItemDescription": "Prinx CityRunner 175/70R14",
+          "Quantity": 52,
+          "Price": 1480,
+          "LineTotal": 76960
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "OVA-PCR-005",
+          "ItemDescription": "Ovation SUV Terrain X 235/55R18",
+          "Quantity": 37,
+          "Price": 1250,
+          "LineTotal": 46250
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:49.067Z"
+    },
+    {
+      "DocEntry": 24,
+      "DocNum": 90024,
+      "CardCode": "C10003",
+      "CardName": "Comercializadora de Neumaticos San Miguel",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 150960,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "BLA-GOLF-024",
+          "ItemDescription": "BlackArrow CartPro Smooth 205/50-10",
+          "Quantity": 42,
+          "Price": 1330,
+          "LineTotal": 55860
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "PRI-PCR-002",
+          "ItemDescription": "Prinx RoadMaster VP 205/55R16",
+          "Quantity": 25,
+          "Price": 860,
+          "LineTotal": 21500
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "FOR-GOLF-023",
+          "ItemDescription": "Fortire GreenGlide 18x8.50-8",
+          "Quantity": 64,
+          "Price": 1150,
+          "LineTotal": 73600
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:49.272Z"
+    },
+    {
+      "DocEntry": 25,
+      "DocNum": 90025,
+      "CardCode": "C10007",
+      "CardName": "Transportes del Norte",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 402910,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-PCR-006",
+          "ItemDescription": "Prinx CityRunner 175/70R14",
+          "Quantity": 94,
+          "Price": 1480,
+          "LineTotal": 139120
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "OVA-TBR-009",
+          "ItemDescription": "Ovation CargoMile 275/80R22.5",
+          "Quantity": 45,
+          "Price": 4870,
+          "LineTotal": 219150
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "PRI-ATV-018",
+          "ItemDescription": "Prinx MudCrawler 25x10-12",
+          "Quantity": 16,
+          "Price": 2790,
+          "LineTotal": 44640
+        }
+      ],
+      "SalesPersonCode": 3,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:49.426Z"
+    },
+    {
+      "DocEntry": 26,
+      "DocNum": 90026,
+      "CardCode": "C10008",
+      "CardName": "Importadora de Llantas Centro",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 1008130,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-TBR-010",
+          "ItemDescription": "Prinx TransAxle Pro 315/80R22.5",
+          "Quantity": 10,
+          "Price": 8710,
+          "LineTotal": 87100
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "OVA-INDUSTRIAL-021",
+          "ItemDescription": "Ovation WareMax Industrial 28x9-15",
+          "Quantity": 87,
+          "Price": 2550,
+          "LineTotal": 221850
+        },
+        {
+          "LineNum": 2,
+          "ItemCode": "PRI-AGRICOLA-014",
+          "ItemDescription": "Prinx HarvestGrip R1W 23.1-30",
+          "Quantity": 86,
+          "Price": 8130,
+          "LineTotal": 699180
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:49.515Z"
+    },
+    {
+      "DocEntry": 27,
+      "DocNum": 90027,
+      "CardCode": "C10003",
+      "CardName": "Comercializadora de Neumaticos San Miguel",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 186480,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-ATV-017",
+          "ItemDescription": "Ovation TrailBlazer XT 26x9-12",
+          "Quantity": 56,
+          "Price": 3330,
+          "LineTotal": 186480
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:49.732Z"
+    },
+    {
+      "DocEntry": 28,
+      "DocNum": 90028,
+      "CardCode": "C10004",
+      "CardName": "Grupo Llantero Guadalajara",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 276900,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-TBR-010",
+          "ItemDescription": "Prinx TransAxle Pro 315/80R22.5",
+          "Quantity": 24,
+          "Price": 8710,
+          "LineTotal": 209040
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "BLA-PCR-004",
+          "ItemDescription": "BlackArrow SportGrip 225/45R17",
+          "Quantity": 78,
+          "Price": 870,
+          "LineTotal": 67860
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:49.927Z"
+    },
+    {
+      "DocEntry": 29,
+      "DocNum": 90029,
+      "CardCode": "C10039",
+      "CardName": "Distribuidora de Llantas Merida",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 166500,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "OVA-ATV-017",
+          "ItemDescription": "Ovation TrailBlazer XT 26x9-12",
+          "Quantity": 50,
+          "Price": 3330,
+          "LineTotal": 166500
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:50.131Z"
+    },
+    {
+      "DocEntry": 30,
+      "DocNum": 90030,
+      "CardCode": "C10038",
+      "CardName": "Maquinaria y Llantas Puebla",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 2333040,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "FOR-AGRICOLA-015",
+          "ItemDescription": "Fortire TracFarm R1 13.6-28",
+          "Quantity": 109,
+          "Price": 15060,
+          "LineTotal": 1641540
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "OVA-AGRICOLA-013",
+          "ItemDescription": "Ovation FieldMaster R1 14.9-24",
+          "Quantity": 75,
+          "Price": 9220,
+          "LineTotal": 691500
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:50.319Z"
+    },
+    {
+      "DocEntry": 31,
+      "DocNum": 90031,
+      "CardCode": "C10003",
+      "CardName": "Comercializadora de Neumaticos San Miguel",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 675630,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-AGRICOLA-014",
+          "ItemDescription": "Prinx HarvestGrip R1W 23.1-30",
+          "Quantity": 71,
+          "Price": 8130,
+          "LineTotal": 577230
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "FOR-PCR-003",
+          "ItemDescription": "Fortire TouringPro 215/60R16",
+          "Quantity": 80,
+          "Price": 1230,
+          "LineTotal": 98400
+        }
+      ],
+      "SalesPersonCode": 4,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:50.522Z"
+    },
+    {
+      "DocEntry": 32,
+      "DocNum": 90032,
+      "CardCode": "C10009",
+      "CardName": "Neumaticos del Norte La Union",
+      "DocDate": "2026-08-19",
+      "DocDueDate": "2026-08-24",
+      "DocTotal": 740350,
+      "DocCurrency": "MXN",
+      "DocumentStatus": "bost_Open",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "PRI-TBR-010",
+          "ItemDescription": "Prinx TransAxle Pro 315/80R22.5",
+          "Quantity": 85,
+          "Price": 8710,
+          "LineTotal": 740350
+        }
+      ],
+      "SalesPersonCode": 5,
+      "U_EstatusPedido": "Pendiente",
+      "U_Guia": "",
+      "U_Paqueteria": "",
+      "U_UrlRastreo": "",
+      "U_MotivoCancelacion": "",
+      "U_SalesforceOrderId": "",
+      "CreatedAt": "2026-08-19T04:24:50.718Z"
+    }
+  ],
+  "nextDocEntry": 33,
+  "config": {
+    "webhookUrl": "https://forte-universal-demo-89o70l.5sc6y6-2.usa-e2.cloudhub.io/api/pedido-status",
+    "muleUrl": "https://forte-universal-demo-89o70l.5sc6y6-2.usa-e2.cloudhub.io",
+    "bearerToken": "forte-sap-b1-demo-token",
+    "stress": {
+      "enabled": false,
+      "delayMs": 0,
+      "errorRate": 0
+    }
+  },
+  "rejectedRequests": [
+    {
+      "timestamp": "2026-08-19T04:38:12.661Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:38:08.008Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:38:08.006Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:38:04.642Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:38:04.640Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:38:04.638Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:37:24.972Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:37:24.923Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:37:17.080Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:37:17.034Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:37:17.032Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:37:01.006Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:53.070Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:53.008Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:53.007Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:45.008Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:38.007Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:38.005Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:37.004Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:29.007Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:24.975Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:24.908Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:23.015Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:23.015Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:21.000Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:12.992Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:08.025Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:08.009Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:04.679Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:00.844Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:00.843Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:36:00.841Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:35:24.974Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:35:24.909Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:35:17.100Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:35:17.039Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:35:17.037Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:34:24.959Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:34:24.925Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:34:17.077Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:34:17.076Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:34:17.071Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:33:24.912Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:33:24.910Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:33:17.078Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:33:17.076Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:33:17.022Z",
+      "method": "GET",
+      "path": "/api/sales-orders",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:32:24.971Z",
+      "method": "GET",
+      "path": "/api/items",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:32:24.917Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    },
+    {
+      "timestamp": "2026-08-19T04:32:17.121Z",
+      "method": "GET",
+      "path": "/api/business-partners",
+      "cardCode": null
+    }
+  ],
+  "lastSync": {
+    "businessPartners": "2026-08-21T03:40:25.788Z",
+    "items": "2026-08-21T03:40:25.786Z"
+  }
+}

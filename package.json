@@ -1,0 +1,14 @@
+{
+  "name": "mock-sap-b1-forte-universal",
+  "version": "1.0.0",
+  "description": "Mock de SAP Business One (Service Layer simplificado) para demo Forte Universal - integracion Salesforce <-> MuleSoft <-> SAP B1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
