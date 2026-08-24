@@ -40,7 +40,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 function requireAuth(req, res, next) {
   const header = req.headers.authorization || '';
   const token = header.startsWith('Bearer ') ? header.slice(7) : null;
-  if (!token || token !== db.config.bearerToken) {
+  // El repo es publico, asi que el token del seed queda a la vista. SAP_BEARER_TOKEN
+  // permite rotarlo por entorno sin tocar codigo (hay que actualizarlo tambien en Mule).
+  const esperado = process.env.SAP_BEARER_TOKEN || db.config.bearerToken;
+  if (!token || token !== esperado) {
     return res.status(401).json({ error: { code: -1, message: 'No autorizado. Bearer token invalido.' } });
   }
   next();
