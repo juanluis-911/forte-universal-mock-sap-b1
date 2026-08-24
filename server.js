@@ -434,7 +434,13 @@ app.post('/api/loadtest', requireAuth, async (req, res) => {
   res.json({ total: count, exitosos: resultados.filter((r) => r.ok).length, fallidos: resultados.filter((r) => !r.ok).length, resultados });
 });
 
-app.listen(PORT, () => {
-  console.log(`Mock SAP Business One (Forte Universal) escuchando en http://localhost:${PORT}`);
-  console.log(`Bearer token demo: ${db.config.bearerToken}`);
-});
+// En Vercel no se abre puerto: la plataforma invoca la app como handler serverless.
+// En local y en Render (proceso normal) se levanta el listener de siempre.
+if (!process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`Mock SAP Business One (Forte Universal) escuchando en http://localhost:${PORT}`);
+    console.log(`Bearer token demo: ${db.config.bearerToken}`);
+  });
+}
+
+module.exports = app;
