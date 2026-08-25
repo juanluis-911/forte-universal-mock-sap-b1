@@ -136,9 +136,13 @@ function buildInitialDb() {
     items: buildItems(),
     salesOrders: [],
     nextDocEntry: 1,
+    // Estas dos URLs se pueden cambiar en caliente desde /api/config/*, pero ESE cambio
+    // vive solo en db.json. En Render (plan free, sin disco) un reinicio del contenedor
+    // devuelve db.json al estado del repo y se pierde. Por eso el default sale de env:
+    // MULE_URL en Render sobrevive a los reinicios, la edicion en caliente no.
     config: {
-      webhookUrl: '',
-      muleUrl: '',
+      webhookUrl: process.env.MULE_URL ? `${process.env.MULE_URL.replace(/\/$/, '')}/api/pedido-status` : '',
+      muleUrl: process.env.MULE_URL || '',
       bearerToken: 'forte-sap-b1-demo-token',
       stress: {
         enabled: false,

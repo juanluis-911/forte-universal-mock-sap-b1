@@ -23,6 +23,17 @@ function loadDb() {
     saveDb();
   }
   if (!db.rejectedRequests) db.rejectedRequests = [];
+
+  // MULE_URL manda sobre lo que traiga db.json. Sin esto, un reinicio del contenedor en
+  // Render (plan free = sin disco) restaura el db.json del repo y con el las URLs viejas,
+  // dejando al mock apuntando a una app de CloudHub que ya no existe. Sintoma: el sync
+  // sigue funcionando (Mule -> mock) pero los pedidos no salen (mock -> Mule), en silencio.
+  const muleUrl = (process.env.MULE_URL || '').replace(/\/$/, '');
+  if (muleUrl) {
+    db.config.muleUrl = muleUrl;
+    db.config.webhookUrl = `${muleUrl}/api/pedido-status`;
+    saveDb();
+  }
 }
 
 function saveDb() {
